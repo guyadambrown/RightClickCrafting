@@ -1,0 +1,11 @@
+name: RightClickCrafting
+version: 1.0
+main: xyz.guyb.rightclickcrafting.main
+authors:
+  - Guy Brown
+api-version: 1.13
+
+permissions:
+  RightClickCrafting.use:
+    default: true
+    description: Allows a player to use RightClickCrafting.
